@@ -1,0 +1,7 @@
+,0
+mediapipe_error,20.914645489698
+mmpose_error,7.637672420706002
+yolo_error,29.225615469142504
+normalized_mediapipe_error,1.7428871241414998
+normalized_mmpose_error,0.6364727017255001
+normalized_yolo_error,2.4354679557618746

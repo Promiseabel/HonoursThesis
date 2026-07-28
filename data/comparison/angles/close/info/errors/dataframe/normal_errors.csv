@@ -1,0 +1,3 @@
+frame,keypoint,mediapipe_error,mmpose_error,yolo_error,normalized_mediapipe_error,normalized_mmpose_error,normalized_yolo_error
+maxV_close_frame_11,left_knee_angle,65.2110042794,4.517709913599987,9.295282173200007,5.4342503566166664,0.37647582613333225,0.7746068477666673
+maxV_close_frame_11,left_ankle_angle,40.48502571990001,11.804723970799998,,3.373752143325001,0.9837269975666665,

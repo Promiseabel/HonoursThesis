@@ -1,0 +1,17 @@
+# Core analysis
+numpy
+pandas
+matplotlib
+opencv-python
+
+# Pose estimation models
+mediapipe                 # MediaPipe Pose (BlazePose), 33 landmarks
+ultralytics               # YOLOv11 pose (yolo11n-pose.pt), COCO-17 keypoints
+
+# RTMPose (run separately, e.g. in Google Colab with GPU)
+# Requires the OpenMMLab stack — see notebooks/03_rtmpose_inference.ipynb:
+# mmcv, mmdet, mmpose
+# Checkpoint: rtmpose-x_simcc-body7_pt-body7-halpe26_700e-384x288 (Halpe-26 keypoints)
+
+# Ground truth annotation was done in Label Studio (https://labelstud.io/),
+# exported as JSON with percent-of-image coordinates.

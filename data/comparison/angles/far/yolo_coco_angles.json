@@ -1,0 +1,41 @@
+[
+    {
+        "frame": "maxV_far_frame_30",
+        "left_elbow_angle": -1,
+        "left_knee_angle": -1,
+        "left_shoulder_angle": -1,
+        "left_hip_angle": -1,
+        "left_ankle_angle": null,
+        "right_elbow_angle": -1,
+        "right_knee_angle": -1,
+        "right_shoulder_angle": -1,
+        "right_hip_angle": -1,
+        "right_ankle_angle": null
+    },
+    {
+        "frame": "maxV_far_frame_35",
+        "left_elbow_angle": -1,
+        "left_knee_angle": -1,
+        "left_shoulder_angle": -1,
+        "left_hip_angle": -1,
+        "left_ankle_angle": null,
+        "right_elbow_angle": -1,
+        "right_knee_angle": -1,
+        "right_shoulder_angle": -1,
+        "right_hip_angle": -1,
+        "right_ankle_angle": null
+    },
+    {
+        "frame": "maxV_far_frame_40",
+        "left_elbow_angle": -1,
+        "left_knee_angle": -1,
+        "left_shoulder_angle": -1,
+        "left_hip_angle": -1,
+        "left_ankle_angle": null,
+        "right_elbow_angle": -1,
+        "right_knee_angle": -1,
+        "right_shoulder_angle": -1,
+        "right_hip_angle": -1,
+        "right_ankle_angle": null
+    }
+]

@@ -1,0 +1,4 @@
+Method,Correct (C) %,False (F) %,Don't Know (DK) %
+Mediapipe,12.5,87.5,0.0
+MMPose,25.0,75.0,0.0
+YOLO,12.5,87.5,0.0

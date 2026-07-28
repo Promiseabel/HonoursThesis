@@ -1,0 +1,65 @@
+[
+    {
+        "frame_name": "frame_5",
+        "size_ratio": 1.1740968890205716,
+        "bbox_diagonal": 273.21896639496174,
+        "normalized_head_bbox_diagonal": 32.84082108376992,
+        "head_bbox_diagonal": 54.7347018062832
+    },
+    {
+        "frame_name": "frame_10",
+        "size_ratio": 1.8588935589642228,
+        "bbox_diagonal": 320.7342673415428,
+        "normalized_head_bbox_diagonal": 31.908436617463263,
+        "head_bbox_diagonal": 53.180727695772106
+    },
+    {
+        "frame_name": "frame_15",
+        "size_ratio": 1.4748445433130697,
+        "bbox_diagonal": 295.31881192388255,
+        "normalized_head_bbox_diagonal": 29.51362278401181,
+        "head_bbox_diagonal": 49.189371306686354
+    },
+    {
+        "frame_name": "frame_20",
+        "size_ratio": 0.9601519314239968,
+        "bbox_diagonal": 262.652994050335,
+        "normalized_head_bbox_diagonal": 28.497279724003842,
+        "head_bbox_diagonal": 47.49546620667307
+    },
+    {
+        "frame_name": "frame_25",
+        "size_ratio": 1.838423767938974,
+        "bbox_diagonal": 318.84594226381,
+        "normalized_head_bbox_diagonal": 29.251414682518213,
+        "head_bbox_diagonal": 48.752357804197025
+    },
+    {
+        "frame_name": "frame_30",
+        "size_ratio": 1.552913865190824,
+        "bbox_diagonal": 299.23208585821044,
+        "normalized_head_bbox_diagonal": 29.523240035735487,
+        "head_bbox_diagonal": 49.205400059559146
+    },
+    {
+        "frame_name": "frame_35",
+        "size_ratio": 0.9315843531480308,
+        "bbox_diagonal": 260.9733133274814,
+        "normalized_head_bbox_diagonal": 28.816021675137346,
+        "head_bbox_diagonal": 48.02670279189558
+    },
+    {
+        "frame_name": "frame_40",
+        "size_ratio": 1.8067326974740476,
+        "bbox_diagonal": 316.2592948620829,
+        "normalized_head_bbox_diagonal": 29.724898092095884,
+        "head_bbox_diagonal": 49.54149682015981
+    },
+    {
+        "frame_name": "frame_45",
+        "size_ratio": 1.4789531069433426,
+        "bbox_diagonal": 292.66795169408493,
+        "normalized_head_bbox_diagonal": 25.827554960015384,
+        "head_bbox_diagonal": 43.045924933358975
+    }
+]

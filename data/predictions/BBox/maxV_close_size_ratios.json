@@ -1,0 +1,72 @@
+[
+    {
+        "frame_name": "frame_6",
+        "size_ratio": 0.08218347258017329,
+        "bbox_diagonal": 69.24448044289824
+    },
+    {
+        "frame_name": "frame_7",
+        "size_ratio": 0.08742285607799959,
+        "bbox_diagonal": 69.28882818023634
+    },
+    {
+        "frame_name": "frame_8",
+        "size_ratio": 0.09353513300412987,
+        "bbox_diagonal": 67.63304422938202
+    },
+    {
+        "frame_name": "frame_9",
+        "size_ratio": 0.09390128297057973,
+        "bbox_diagonal": 70.2590116421011
+    },
+    {
+        "frame_name": "frame_10",
+        "size_ratio": 0.0768237248668577,
+        "bbox_diagonal": 69.6264712377228
+    },
+    {
+        "frame_name": "frame_11",
+        "size_ratio": 0.06464043874562105,
+        "bbox_diagonal": 68.66024444790024
+    },
+    {
+        "frame_name": "frame_12",
+        "size_ratio": 0.0650826508045497,
+        "bbox_diagonal": 68.55365243607802
+    },
+    {
+        "frame_name": "frame_13",
+        "size_ratio": 0.0836359348780263,
+        "bbox_diagonal": 70.75042629269252
+    },
+    {
+        "frame_name": "frame_14",
+        "size_ratio": 0.09664538479096622,
+        "bbox_diagonal": 71.77863868523801
+    },
+    {
+        "frame_name": "frame_15",
+        "size_ratio": 0.09561247775853779,
+        "bbox_diagonal": 67.93813196314422
+    },
+    {
+        "frame_name": "frame_16",
+        "size_ratio": 0.09170357400068137,
+        "bbox_diagonal": 69.46771337906664
+    },
+    {
+        "frame_name": "frame_17",
+        "size_ratio": 0.07260369478391777,
+        "bbox_diagonal": 69.09574945574504
+    },
+    {
+        "frame_name": "frame_18",
+        "size_ratio": 0.0668456325490878,
+        "bbox_diagonal": 68.28429166575188
+    },
+    {
+        "frame_name": "frame_19",
+        "size_ratio": 0.06198413200006339,
+        "bbox_diagonal": 67.81383283496258
+    }
+]

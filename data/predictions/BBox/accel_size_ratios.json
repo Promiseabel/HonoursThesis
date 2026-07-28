@@ -1,0 +1,116 @@
+[
+    {
+        "frame_name": "frame_45",
+        "size_ratio": 0.04376098977478986,
+        "bbox_diagonal": 44.252588114747056,
+        "head_bbox_diagonal": 9.031563857436204
+    },
+    {
+        "frame_name": "frame_47",
+        "size_ratio": 0.04381014692498207,
+        "bbox_diagonal": 44.38682273077923,
+        "head_bbox_diagonal": 9.134524980823688
+    },
+    {
+        "frame_name": "frame_49",
+        "size_ratio": 0.04472754476909869,
+        "bbox_diagonal": 44.79105013268361,
+        "head_bbox_diagonal": 9.451723748314757
+    },
+    {
+        "frame_name": "frame_51",
+        "size_ratio": 0.047802597608884306,
+        "bbox_diagonal": 45.800783595009136,
+        "head_bbox_diagonal": 9.923865462946356
+    },
+    {
+        "frame_name": "frame_53",
+        "size_ratio": 0.046977849866774446,
+        "bbox_diagonal": 45.22720205565848,
+        "head_bbox_diagonal": 10.571472651365116
+    },
+    {
+        "frame_name": "frame_55",
+        "size_ratio": 0.053150410047050144,
+        "bbox_diagonal": 48.208504167735356,
+        "head_bbox_diagonal": 9.974436676211093
+    },
+    {
+        "frame_name": "frame_57",
+        "size_ratio": 0.08066142155941504,
+        "bbox_diagonal": 59.7386248852731,
+        "head_bbox_diagonal": 9.743354450499128
+    },
+    {
+        "frame_name": "frame_59",
+        "size_ratio": 0.09118550214207423,
+        "bbox_diagonal": 63.03292499478396,
+        "head_bbox_diagonal": 9.500428836513622
+    },
+    {
+        "frame_name": "frame_61",
+        "size_ratio": 0.06317765951501195,
+        "bbox_diagonal": 52.096704459201916,
+        "head_bbox_diagonal": 9.046624913013172
+    },
+    {
+        "frame_name": "frame_63",
+        "size_ratio": 0.05180314000475256,
+        "bbox_diagonal": 49.11162186413338,
+        "head_bbox_diagonal": 9.206984196786463
+    },
+    {
+        "frame_name": "frame_65",
+        "size_ratio": 0.050057353148141547,
+        "bbox_diagonal": 48.91058636468863,
+        "head_bbox_diagonal": 9.678935570106333
+    },
+    {
+        "frame_name": "frame_67",
+        "size_ratio": 0.06538386478247453,
+        "bbox_diagonal": 54.23061811325268,
+        "head_bbox_diagonal": 9.83306343255288
+    },
+    {
+        "frame_name": "frame_69",
+        "size_ratio": 0.06568851773798512,
+        "bbox_diagonal": 54.51073487303598,
+        "head_bbox_diagonal": 9.218789258333354
+    },
+    {
+        "frame_name": "frame_71",
+        "size_ratio": 0.0524039496182097,
+        "bbox_diagonal": 52.71890793383085,
+        "head_bbox_diagonal": 9.552470276661259
+    },
+    {
+        "frame_name": "frame_73",
+        "size_ratio": 0.06096943131955816,
+        "bbox_diagonal": 54.549916124136324,
+        "head_bbox_diagonal": 9.0732338453267
+    },
+    {
+        "frame_name": "frame_75",
+        "size_ratio": 0.059860664487450914,
+        "bbox_diagonal": 53.643986189001936,
+        "head_bbox_diagonal": 8.33450961987083
+    },
+    {
+        "frame_name": "frame_77",
+        "size_ratio": 0.05145600556142171,
+        "bbox_diagonal": 50.640108017258065,
+        "head_bbox_diagonal": 9.243134605897762
+    },
+    {
+        "frame_name": "frame_79",
+        "size_ratio": 0.043520059051009294,
+        "bbox_diagonal": 49.57790535541041,
+        "head_bbox_diagonal": 9.393972405697665
+    },
+    {
+        "frame_name": "frame_81",
+        "size_ratio": 0.060979950545113445,
+        "bbox_diagonal": 53.32090862891578,
+        "head_bbox_diagonal": 9.100531790184526
+    }
+]

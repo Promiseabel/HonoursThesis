@@ -1,0 +1,67 @@
+[
+    {
+        "frame": "accel_frame_57",
+        "left_elbow_angle": 85.0302407512,
+        "left_knee_angle": 147.7343279736,
+        "left_shoulder_angle": 76.537542556,
+        "left_hip_angle": 149.1385638679,
+        "left_ankle_angle": 109.4509300728,
+        "right_elbow_angle": 169.8205642775,
+        "right_knee_angle": 89.0301497933,
+        "right_shoulder_angle": 74.638360646,
+        "right_hip_angle": 122.7645806898,
+        "right_ankle_angle": 130.2658496062
+    },
+    {
+        "frame": "accel_frame_59",
+        "left_elbow_angle": 124.7355647362,
+        "left_knee_angle": 167.8357522859,
+        "left_shoulder_angle": 122.4872030652,
+        "left_hip_angle": 158.8395088668,
+        "left_ankle_angle": 147.8191898863,
+        "right_elbow_angle": 162.0094506597,
+        "right_knee_angle": 92.0079073657,
+        "right_shoulder_angle": 84.7641775622,
+        "right_hip_angle": 102.763655781,
+        "right_ankle_angle": 101.7412311038
+    },
+    {
+        "frame": "accel_frame_61",
+        "left_elbow_angle": 109.9579213546,
+        "left_knee_angle": 148.3472281686,
+        "left_shoulder_angle": 71.4357259253,
+        "left_hip_angle": 145.4795222465,
+        "left_ankle_angle": 165.5265645926,
+        "right_elbow_angle": 167.9380275385,
+        "right_knee_angle": 105.3924621765,
+        "right_shoulder_angle": 53.6167220223,
+        "right_hip_angle": 109.7613211895,
+        "right_ankle_angle": 107.2708976143
+    },
+    {
+        "frame": "accel_frame_67",
+        "left_elbow_angle": 135.9093990485,
+        "left_knee_angle": 87.9846390767,
+        "left_shoulder_angle": 69.8005513172,
+        "left_hip_angle": 89.2320948087,
+        "left_ankle_angle": 112.1409590963,
+        "right_elbow_angle": 92.7281576439,
+        "right_knee_angle": 157.0130716592,
+        "right_shoulder_angle": 84.8339752654,
+        "right_hip_angle": 151.7836365863,
+        "right_ankle_angle": 108.5881678976
+    },
+    {
+        "frame": "accel_frame_69",
+        "left_elbow_angle": 120.8925314789,
+        "left_knee_angle": 108.6084021057,
+        "left_shoulder_angle": 56.4458068671,
+        "left_hip_angle": 98.2552937967,
+        "left_ankle_angle": 104.9754349588,
+        "right_elbow_angle": 83.6225697264,
+        "right_knee_angle": 130.6071505166,
+        "right_shoulder_angle": 32.5604850754,
+        "right_hip_angle": 145.2710102315,
+        "right_ankle_angle": 109.4719943762
+    }
+]

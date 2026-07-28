@@ -1,0 +1,2 @@
+frame,keypoint,mediapipe_error,mmpose_error,yolo_error,normalized_mediapipe_error,normalized_mmpose_error,normalized_yolo_error
+maxV_close_frame_7,right_hip,16.495930683007693,27.610919031348807,9.39005126253597,0.17378098927123592,0.29087493856278307,0.0989221177676282

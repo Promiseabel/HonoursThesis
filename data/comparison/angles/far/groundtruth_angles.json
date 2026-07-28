@@ -1,0 +1,117 @@
+[
+    {
+        "frame": "maxV_far_frame_30",
+        "left_elbow_angle": [
+            122.5914215764,
+            "blurry"
+        ],
+        "left_knee_angle": [
+            82.3912043882,
+            "blurry,blurry"
+        ],
+        "left_shoulder_angle": [
+            69.9302786091
+        ],
+        "left_hip_angle": [
+            113.7082769559,
+            "blurry"
+        ],
+        "left_ankle_angle": [
+            82.7853927085,
+            "blurry,blurry"
+        ],
+        "right_elbow_angle": [
+            86.3175731673
+        ],
+        "right_knee_angle": [
+            154.7891550642
+        ],
+        "right_shoulder_angle": [
+            61.4916993312
+        ],
+        "right_hip_angle": [
+            179.5124473911
+        ],
+        "right_ankle_angle": [
+            121.7846619419
+        ]
+    },
+    {
+        "frame": "maxV_far_frame_35",
+        "left_elbow_angle": [
+            144.2437872476,
+            "occluded"
+        ],
+        "left_knee_angle": [
+            148.5688486847
+        ],
+        "left_shoulder_angle": [
+            11.6553078551,
+            "occluded"
+        ],
+        "left_hip_angle": [
+            153.5137473621,
+            "occluded"
+        ],
+        "left_ankle_angle": [
+            86.9571851155
+        ],
+        "right_elbow_angle": [
+            137.8734384976
+        ],
+        "right_knee_angle": [
+            35.8444955144,
+            "blurry"
+        ],
+        "right_shoulder_angle": [
+            4.5070404271
+        ],
+        "right_hip_angle": [
+            113.0964249393
+        ],
+        "right_ankle_angle": [
+            92.4834895099,
+            "blurry"
+        ]
+    },
+    {
+        "frame": "maxV_far_frame_40",
+        "left_elbow_angle": [
+            96.1155960403,
+            "occluded,blurry"
+        ],
+        "left_knee_angle": [
+            92.4338416545
+        ],
+        "left_shoulder_angle": [
+            31.9996904394,
+            "occluded"
+        ],
+        "left_hip_angle": [
+            179.5986815697,
+            "occluded"
+        ],
+        "left_ankle_angle": [
+            160.7818768932
+        ],
+        "right_elbow_angle": [
+            130.7073345341,
+            "blurry"
+        ],
+        "right_knee_angle": [
+            152.500738057,
+            "occluded"
+        ],
+        "right_shoulder_angle": [
+            28.6020804869,
+            "occluded"
+        ],
+        "right_hip_angle": [
+            115.74717569,
+            "occluded"
+        ],
+        "right_ankle_angle": [
+            112.7819786854
+        ]
+    }
+]

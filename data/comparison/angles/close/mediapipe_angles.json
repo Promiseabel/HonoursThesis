@@ -1,0 +1,41 @@
+[
+    {
+        "frame": "maxV_close_frame_7",
+        "left_elbow_angle": 179.0885177256,
+        "left_knee_angle": 117.9023684473,
+        "left_shoulder_angle": 90.572675295,
+        "left_hip_angle": 145.3039989471,
+        "left_ankle_angle": 141.5420833874,
+        "right_elbow_angle": 139.9063662892,
+        "right_knee_angle": 171.0246793614,
+        "right_shoulder_angle": 85.821192742,
+        "right_hip_angle": 130.621715311,
+        "right_ankle_angle": 176.4279272976
+    },
+    {
+        "frame": "maxV_close_frame_11",
+        "left_elbow_angle": 125.4439130232,
+        "left_knee_angle": 77.397385435,
+        "left_shoulder_angle": 25.9683746129,
+        "left_hip_angle": 160.3462995398,
+        "left_ankle_angle": 131.6694630558,
+        "right_elbow_angle": 134.6948780921,
+        "right_knee_angle": 129.646128424,
+        "right_shoulder_angle": 33.4160588695,
+        "right_hip_angle": 159.838241379,
+        "right_ankle_angle": 128.937345349
+    },
+    {
+        "frame": "maxV_close_frame_15",
+        "left_elbow_angle": -1,
+        "left_knee_angle": -1,
+        "left_shoulder_angle": -1,
+        "left_hip_angle": -1,
+        "left_ankle_angle": -1,
+        "right_elbow_angle": -1,
+        "right_knee_angle": -1,
+        "right_shoulder_angle": -1,
+        "right_hip_angle": -1,
+        "right_ankle_angle": -1
+    }
+]

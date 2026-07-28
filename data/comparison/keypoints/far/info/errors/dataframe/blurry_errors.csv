@@ -1,0 +1,9 @@
+frame,keypoint,mediapipe_error,mmpose_error,yolo_error,normalized_mediapipe_error,normalized_mmpose_error,normalized_yolo_error
+maxV_far_frame_30,left_knee,,2.2922542955370258,,,0.0776423689528127,
+maxV_far_frame_30,left_ankle,,12.570561885546864,,,0.42578530914395635,
+maxV_far_frame_30,left_wrist,,5.999250983039241,,,0.20320435615391924,
+maxV_far_frame_30,left_feet,,11.009946286530322,,,0.37292472889844325,
+maxV_far_frame_35,right_ankle,,11.65258266519526,,,0.404378605643859,
+maxV_far_frame_35,right_feet,,26.157650652733082,,,0.9077467718349919,
+maxV_far_frame_40,left_wrist,,13.982161850749018,,,0.47038552688821494,
+maxV_far_frame_40,right_wrist,,8.419168377235376,,,0.2832362402438012,

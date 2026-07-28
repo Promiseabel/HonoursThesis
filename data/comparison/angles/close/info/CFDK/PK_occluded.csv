@@ -1,0 +1,5 @@
+Method,Correct (C) %,False (F) %,Don't Know (DK) %
+Mediapipe,65.625,28.125,6.25
+MMPose,67.1875,32.8125,0.0
+YOLO,50.0,42.1875,7.8125
+YOLO_nonfeet,54.23728813559322,45.76271186440678,0.0

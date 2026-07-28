@@ -1,0 +1,47 @@
+[
+    {
+        "frame_name": "frame_5",
+        "size_ratio": 0.004246588863645009,
+        "bbox_diagonal": 17.891713234338525
+    },
+    {
+        "frame_name": "frame_10",
+        "size_ratio": 0.0067234286710222205,
+        "bbox_diagonal": 19.577203657817375
+    },
+    {
+        "frame_name": "frame_15",
+        "size_ratio": 0.005334362497515442,
+        "bbox_diagonal": 19.00498496135081
+    },
+    {
+        "frame_name": "frame_20",
+        "size_ratio": 0.003472771742708322,
+        "bbox_diagonal": 17.503793643108015
+    },
+    {
+        "frame_name": "frame_25",
+        "size_ratio": 0.006649391521770017,
+        "bbox_diagonal": 19.59885461026933
+    },
+    {
+        "frame_name": "frame_30",
+        "size_ratio": 0.005616731283242275,
+        "bbox_diagonal": 19.081828284548397
+    },
+    {
+        "frame_name": "frame_35",
+        "size_ratio": 0.0033694457217449034,
+        "bbox_diagonal": 17.424146688614684
+    },
+    {
+        "frame_name": "frame_40",
+        "size_ratio": 0.006534768147692592,
+        "bbox_diagonal": 19.542015634861027
+    },
+    {
+        "frame_name": "frame_45",
+        "size_ratio": 0.005349222753701326,
+        "bbox_diagonal": 18.697079301146314
+    }
+]

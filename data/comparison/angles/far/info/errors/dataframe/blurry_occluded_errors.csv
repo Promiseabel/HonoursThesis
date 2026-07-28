@@ -1,0 +1,2 @@
+frame,keypoint,mediapipe_error,mmpose_error,yolo_error,normalized_mediapipe_error,normalized_mmpose_error,normalized_yolo_error
+maxV_far_frame_40,left_elbow_angle,,25.240888193000004,,,2.103407349416667,

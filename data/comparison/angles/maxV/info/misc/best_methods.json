@@ -1,0 +1,1 @@
+{"best_overall": "normalized_mediapipe_error", "best_overall_blurry_occluded": "normalized_mediapipe_error", "best_overall_blurry": "normalized_mediapipe_error", "best_overall_occluded": "normalized_mediapipe_error", "best_overall_normal": "normalized_mmpose_error"}
